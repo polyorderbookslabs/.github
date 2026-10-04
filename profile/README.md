@@ -51,6 +51,7 @@ Create a free API key: [polyorderbooks.com/signup](https://polyorderbooks.com/si
 | [mcp-server](https://github.com/polyorderbookslabs/mcp-server) | MCP server for Claude, Cursor, and other MCP clients |
 | [python-examples](https://github.com/polyorderbookslabs/python-examples) | Runnable examples for the Python SDK |
 | [n8n-templates](https://github.com/polyorderbookslabs/n8n-templates) | n8n workflows for historical order book data |
+| [polymarket-orderbook-research](https://github.com/polyorderbookslabs/polymarket-orderbook-research) | Reproducible measurement scripts behind the published research |
 
 ## Contact
 
